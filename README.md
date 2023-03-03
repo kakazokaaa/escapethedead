@@ -3,7 +3,7 @@
 ![](https://s9.gifyu.com/images/ezgif.com-video-to-gif34ed69f8c9c3ec0d.gif)
 
 ## Sobre
-Escape The Dead é um shooter arcade 3D infinito programado na Unity. O jogo consiste em sobreviver contra hordas de zumbis e chefões que spawnam cada vez mais com o passar do tempo em busca de um recorde de sobrevivência.
+Escape The Dead é um shooter 3D infinito programado na Unity. O jogo consiste em sobreviver contra hordas de zumbis e chefões que spawnam cada vez mais com o passar do tempo em busca de um recorde de sobrevivência.
 
 ## Como Jogar
 
