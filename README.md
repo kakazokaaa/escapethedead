@@ -1,6 +1,6 @@
 # Escape The Dead
 
-(https://s9.gifyu.com/images/ezgif.com-video-to-gif34ed69f8c9c3ec0d.gif)
+![](https://s9.gifyu.com/images/ezgif.com-video-to-gif34ed69f8c9c3ec0d.gif)
 
 ## Sobre
 Escape The Dead é um shooter 3D infinito programado na Unity. O jogo consiste em sobreviver contra hordas infinitas de zumbis e chefões spawnanm com o passar do tempo em busca de um tempo recorde de sobrevivência.
